@@ -1,0 +1,8 @@
+version: '1.0.0'
+
+settings:
+  user_email: ""
+  personal_access_token: ""
+  organization: ""
+  project_key: ""
+  jira_api_version: ""
